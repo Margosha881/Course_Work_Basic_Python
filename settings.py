@@ -1,0 +1,3 @@
+TOKEN_Vk = 'vk1.a.xvTZCimOwlH2k8AsXCb3r5SSF_QKcwPH93RDvVb7oJa1QpfS4wx1MKfW4yuiWltagV3DxsrwIV04I6jCVFt-HqYmyadSeElsTzkPpu-F-Ysib0OOFNS147n0w9AbzozNeMi47MnkaBY9G8fwIrWy3GSQLxiUruWjDuUxNBJKivHvtZnufa3PXCn4ntBXXHhBbjZNY_IZOH9kVHh1omnMuw' 
+user_id_vk = '22903157'
+ya_token = 'y0_AgAAAABmCKCzAADLWwAAAADTkJmhXyRIgVTzQxq9ObpJt4CF5qeqauE'
